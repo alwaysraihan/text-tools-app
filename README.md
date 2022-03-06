@@ -1,1 +1,1 @@
-# Text Uppercase and Lowercase coverter app 
+# Text Uppercase and Lowercase coverter react app 
