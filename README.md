@@ -1,1 +1,1 @@
-# Text Uppercase and Lowercase coverter appn 
+# Text Uppercase and Lowercase coverter app 
